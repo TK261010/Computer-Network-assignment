@@ -2,7 +2,7 @@ import socket
 
 HOST = "127.0.0.1"
 PORT = 5000
-https://github.com/TK261010/Computer-Network-assignment/tree/main
+
 # Create socket
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
